@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://-f9d9437f.zappy5.app
+https://example.com
 מחפשים מוזיקה חיה לאירוע? המנגן מחבר אתכם לפסנתרנים ואמנים מוכשרים להופעות בלתי נשכחות. גלו אמנים, הזמינו הופעה והפכו כל אירוע לחוויה מוזיקלית יוצאת דופן עוד היום!
 
 ### אמנים
-https://-f9d9437f.zappy5.app/artists
+https://example.com/artists
 דפדפו בין מיטב הפסנתרנים והאמנים בישראל ומצאו את הקול המושלם לאירוע שלכם. צפו בפרופילים, האזינו לדוגמאות והזמינו הופעה שתיגע בלב האורחים. התחילו לחפש עכשיו!
 
 ### אירועים
-https://-f9d9437f.zappy5.app/events
+https://example.com/events
 מחפשים live music this weekend? גלו אירועי מוזיקה חיה קרובים עם פסנתרנים והרכבים מעולים. מצאו הופעה שתעיר את החושים שלכם והבטיחו מקום עוד הלילה!
 
 ### אודות
-https://-f9d9437f.zappy5.app/about
+https://example.com/about
 המנגן נולד כדי לגשר בין נגנים מוכשרים לאנשים כמוכם שמחפשים מוזיקה חיה לאירוע. למדו על החזון שלנו, הצוות והתשוקה להפוך כל אירוע לחוויה מוזיקלית מרגשת. הצטרפו למסע!
 
 ### צור קשר
-https://-f9d9437f.zappy5.app/contact
+https://example.com/contact
 רוצים להזמין אמן או לשאול על אירועי מוזיקה חיה? צרו קשר עם המנגן עוד היום! אנחנו כאן כדי להתאים לכם את המוזיקה שתעשה את האירוע, בין אם זו חתונה, מסיבה או ערב עסקי. שלחו הודעה!
 
 ### תודה - המנגן
-https://-f9d9437f.zappy5.app/thank-you
+https://example.com/thank-you
 המנגן - תודה - המנגן
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-f9d9437f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-f9d9437f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-f9d9437f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-f9d9437f.zappy5.app/contact
-- Endpoint: https://-f9d9437f.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Music & Entertainment Events
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-f9d9437f.zappy5.app/sitemap.xml
-- Robots: https://-f9d9437f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-f9d9437f.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
